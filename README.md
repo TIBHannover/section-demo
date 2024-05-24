@@ -50,7 +50,7 @@ The content of the demo will be a fictional exhibition catalogue of a collection
 
 ![Workflow](images/cps-workflow.svg)
 
-[Link to drawing](https://docs.google.com/drawings/d/1YOS5C4GYxoWCXuSEN1039IjGtbEpYJRa1vXCraEugts/edit?usp=sharing) on Google Drive (commenting view)
+[Link to drawing](https://docs.google.com/drawings/d/1YOS5C4GYxoWCXuSEN1039IjGtbEpYJRa1vXCraEugts/edit?usp=sharing) on Google Drive (commenting view) 
 
 ## Software Citation
 
