@@ -5,15 +5,15 @@ project:
 # Quarto options for books
 # https://quarto.org/docs/reference/projects/books.html
 book:
-  title: "Weikersheim, Residenzschloss"
-  author: "Team Redaktion"
-  date: "2024-03-22"
+  title: "Die barocken Ahnenportraets"
+  author: "Simon Worthington"
+  date: "2024-05-31"
   # this section determines which files will be added to the book as chapters
   chapters:
     - index.qmd
-    - section.ipynb
+    - ahnenportraets.ipynb
   repo-url: https://github.com/TIBHannover/section-demo
-  repo-actions: [edit]
+  repo-actions: [issue]
   downloads: [pdf,docx,epub]
   cover-image: images/fmd10005860a.jpg
 
@@ -28,8 +28,9 @@ format:
   html:
     number-sections: false
     # Quarto allows a number of pre-packaged themes for the HTML version
-    # You can choose between them using the documentation at https://quarto.org/docs/output-formats/html-themes.html
-    theme: simplex
+    # You can choose between them using the documentation at 
+    # https://quarto.org/docs/output-formats/html-themes.html
+    theme: cerulean
   # options for PDF output 
   # https://quarto.org/docs/reference/formats/pdf.html
   pdf:
