@@ -6,7 +6,7 @@
 				"ms-python.python",
 				"ms-toolsai.jupyter",
 				"donjayamanne.vscode-default-python-kernel"
-				"quarto install tinytex" 
+				"quarto install tinytex"  
 			]
 		}
 	},
