@@ -11,7 +11,7 @@ book:
   # this section determines which files will be added to the book as chapters
   chapters:
     - index.qmd
-    - ahnenportraets.ipynb
+    - section.ipynb
   repo-url: https://github.com/TIBHannover/section-demo
   repo-actions: [issue]
   downloads: [pdf,docx,epub]
