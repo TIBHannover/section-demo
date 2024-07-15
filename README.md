@@ -6,7 +6,7 @@ Codespace is GitHub's virtual machine service - with 60 hours and 15 GB per mont
 
 The Codespace provided comes preconfigured for Jupyter Notebooks, Quarto, Python, and all the requirements needed.
 
-## Codespace user instructions: 
+## Codespace user instructions:
 
 Codespace provided a standard VSCode IDE app in the browser. As its a personal virtual VSCode IDE you can save work, and to push to Git you need to carry out usual Git workflows.
 
